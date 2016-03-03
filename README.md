@@ -9,7 +9,11 @@ Program output:
 Program calculates the new annual salary, retroactive pay and new monthly salary. 
 
 What was your old annual salary? 
+
 75000 
+
 Your new salary is 85000 
+
 Your new monthly salary is 7083 
+
 Your retroactive pay is 5000
